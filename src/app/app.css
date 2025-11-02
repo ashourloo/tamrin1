@@ -1,0 +1,23 @@
+nav{
+    background-color: darkblue;
+    display: flex;
+    padding: 0.4em;
+    gap: 0.3em;
+}
+nav a{
+    background-color: lightcyan;
+    color: darkblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0.4em;
+    border-radius: 0.3em;
+}
+nav a:hover{
+    background-color: orange;
+    color: black;
+}
+section{
+    background-color: white;
+    padding: 0.5em;
+    margin: 0.3em;
+}
